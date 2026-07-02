@@ -10,4 +10,4 @@ This project presents a choropleth map showing population density by province in
 - Hermes Download Center
   [Nepal_Province_Population_Density.pdf](https://github.com/user-attachments/files/29591807/Nepal_Province_Population_Density.pdf)
 
-<img width="3507" height="2480" alt="Nepal_Province_Population_Density" src="https://github.com/user-attachments/assets/ab7cf99a-b423-49c1-83a8-ed3ace7c431b" />
+![Nepal Population Density Map](Nepal_Population_Density_Map.png)
