@@ -1,4 +1,4 @@
-S# Project 2: Population Density of Nepal by Province
+# Project 2: Population Density of Nepal by Province
 
 ## Overview
 This project presents a population density map of the seven provinces of Nepal created using QGIS.
